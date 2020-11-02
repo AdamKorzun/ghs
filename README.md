@@ -1,5 +1,5 @@
 # ghs
-Simple tool to get repositories from GitHub
+GitHubSearch - AS s mple tool to search and get repositories from GitHub
 
 # Usage
 ghs --f "search term"
